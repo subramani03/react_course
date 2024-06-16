@@ -1,0 +1,36 @@
+{
+  "name": "react_course",
+  "version": "1.0.0",
+  "description": "To learn the react course",
+  "scripts": {
+    "start":"parcel index.html",
+    "build":"parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/subramani03/react_course.git"
+  },
+  "keywords": [
+    "react",
+    "subramani"
+  ],
+  "author": "Subramani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/subramani03/react_course/issues"
+  },
+  "homepage": "https://github.com/subramani03/react_course#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "browserslist":[
+    "last 2 version"
+  ]
+
+}
